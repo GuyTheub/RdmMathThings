@@ -1,0 +1,1 @@
+double simpson(const double, const double, double(*f)(const double));
